@@ -1,0 +1,6 @@
+A simple chat application written in C
+
+$ make clean
+$ make              
+$ make run          
+$ ./server
